@@ -1,25 +1,65 @@
-<h1 align="center">Hi 👋, I'm Aniket Singh</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aniket-singh-profile" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketbennett&label=Profile%20views&color=0e75b6&style=flat" alt="aniketbennett" /> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aniket+Singh!;" />
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketbennett" alt="aniketbennett" /></a> </p>
+<h3 align="center">A Data Science Enthusiast and Aspiring Data Scientist from India</h3>
 
-- 🔭 I’m currently working on **Bank Risk Analysis**
+<br/>
 
-- 🌱 I’m currently learning **Data Analytics**
+<div align="center">
+ 
+ 🔭 I’m currently working on **Bank Risk Analysis**
+ 
+ 🌱 I’m currently learning **Python, Data Science, and Power BI**
+ 
+ 💡 I have completed projects on **Zomato Data Analysis, IPL 2022 Analysis, and Country GDP Analysis**
 
-- 📫 How to reach me **aniketbennett@gmail.com**
+</div>
+ 
+<div align="center" style="margin-top: 20px;"> 
+  <a href="mailto:aniketbennett@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/aniket-singh-135a841bb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<hr/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h2 align="center">⚒️ Tools & Technologies ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,mysql,vscode,github" />
+    <div align="center">
+    <!-- Pandas -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" height="50" />
+    <!-- NumPy -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50" height="50" />
+    <!-- Seaborn -->
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50" />
+    <!-- Matplotlib -->
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="50" height="50" />
+    <!-- Power BI -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50" />
+    <!-- Streamlit -->
+    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="120" height="50" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketbennett&show_icons=true&locale=en&layout=compact" alt="aniketbennett" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketbennett&show_icons=true&locale=en" alt="aniketbennett" /></p>
+<br/>
+<hr/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketbennett&" alt="aniketbennett" /></p>
+
+<br/><br/>
+
+<hr/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
